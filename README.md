@@ -1,4 +1,4 @@
-<h1> password-cracking-using-brute-force-attack</h1>
+<h1> Password Cracking using Brute-force Attack</h1>
 Brute force is a technique for cracking a password by utilizing multiple potential combinations of digits, letters, and also punctuations.
 By using this tool you can understand that how this attack works to crack a password, however, it relies on password complexity, more time will require to crack a more strong password, even can take few days, quite patience required!
 
