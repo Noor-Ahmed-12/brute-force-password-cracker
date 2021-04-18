@@ -2,7 +2,7 @@
 Brute force is a technique for cracking a password by utilizing multiple potential combinations of digits, letters, and also punctuations.
 By using this tool you can understand that how this attack works to crack a password, however, it relies on password complexity, more time will require to crack a more strong password, even can take few days, quite patience required!
 
-# Password Cracking Demo <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/"> check out this!</a><br>
+# Password Cracking Demo <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/"> check it!</a><br>
 
 ## connect with me for more amazing tools:
 
