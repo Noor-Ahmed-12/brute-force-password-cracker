@@ -5,12 +5,12 @@ By using this tool you can understand that how this attack works to crack a pass
 # Password Cracking Demo <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/"> check out this!</a><br>
 
 ## connect with me for more amazing tools:
-<div align="center">
+
 [<img align="left" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Noor Ahmed Shaikh | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]<br>
-</div>
+
 [website]: https://technicalfaraz.com/author/noor_ahmed/
 [twitter]: https://www.twitter.com/NoorShykh54?s=09
 [facebook]: https://web.facebook.com/profile.php?id=100010125183183/
