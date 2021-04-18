@@ -3,7 +3,7 @@
 ### Password Cracking Demo
 ### <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/">check out this!</a><br>
 
-### Connect with me:
+### connect with me for more amazing tools:
 [<img align="center" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
