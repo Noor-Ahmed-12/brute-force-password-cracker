@@ -1,6 +1,6 @@
 # password-cracking-using-brute-force-attack
 
-<h3>Check out the demo of password cracking</h3>
+### Password Cracking Demo
 ### <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/">Password cracking Live Demo</a><br>
 
 ### Connect with me:
