@@ -1,7 +1,7 @@
 # password-cracking-using-brute-force-attack
 
 ### Password Cracking Demo
-### <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/">Password cracking Live Demo</a><br>
+### <a href="https://technicalfaraz.com/brute-force-password-cracker-using-python/">check out this!</a><br>
 
 ### Connect with me:
 [<img align="left" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
